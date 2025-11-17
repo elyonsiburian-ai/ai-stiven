@@ -1,0 +1,7 @@
+{
+  "name": "Rarea - Conversational AI",
+  "description": "An advanced conversational AI assistant with multiple modes, including real-time voice chat with a feminine persona named Rarea, deep thinking for complex problems, fast responses, and Google Search integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
